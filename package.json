@@ -1,0 +1,14 @@
+{
+  "name": "@chooie/how-to-npm",
+  "version": "1.0.0",
+  "description": "Trying out npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "chooie",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
